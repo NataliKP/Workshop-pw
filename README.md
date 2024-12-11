@@ -9,4 +9,4 @@ Install dependencies:
 'npm install'
 
 Run tests:
-'npx playwright tests'
+'npx playwright test'
